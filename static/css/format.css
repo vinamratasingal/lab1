@@ -1,0 +1,16 @@
+img.image{
+	float: left; 
+	position: relative;
+	left: 8px;
+}
+
+.lead {
+	position: relative;
+	left: 10px;
+}
+
+.page-header {
+	position: relative;
+	left: 20px;
+}
+
